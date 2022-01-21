@@ -2,23 +2,21 @@
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/dsz4sha80/image/upload/v1641515896/CuteComputerGif_mvvnyi.gif" width="300" height="200" />
 
-- 🔭 I’m currently working on XYZ
-- 🌱 I’m currently learning d3
-- 💬 Ask me about 
+- 🔭 I’m currently working on grinding leetcode 😑
+- 🌱 I’m currently learning D3
+- 💬 Ask me about the time I didn't go ice fishing in Nantucket
 - 📫 How to reach me: linkedin / ibnovikov@gmail.com
-- ⚡ Fun fact: ...
 
-![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ily123&show_icons=true&theme=radical)
+![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ily123&show_icons=true&theme=dracula&?count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ily123&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ily123&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ily123&layout=compact&theme=radical)](https://github.com/ily123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ily123&layout=compact&theme=dracula&hide=jupyter%20notebook,tex)](https://github.com/ily123/github-readme-stats)
 
 ## 🧰 Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
