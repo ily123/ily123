@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on grinding leetcode 😑
 - 🌱 I’m currently learning D3
-- 💬 Ask me about why vim is better than an IDE (no please don't)
+- 💬 Ask me about why vim is better than an IDE (just kidding, please don't ask)
 - 📫 How to reach me: linkedin / ibnovikov@gmail.com
 
 ![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ily123&show_icons=true&theme=dracula&?count_private=true)
